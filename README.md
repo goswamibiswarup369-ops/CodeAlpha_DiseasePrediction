@@ -5,7 +5,7 @@ UCI Heart Disease Dataset / Diabetes Dataset
 Logistic Regression
 Support Vector Machine (SVM)
 🔸 Workflow
-Load medical dataset
-Encode categorical features
-Train model
-Evaluate accuracy
+1.Load medical dataset
+2.Encode categorical features
+3.Train model
+4.Evaluate accuracy
